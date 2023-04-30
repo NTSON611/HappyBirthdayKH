@@ -6,7 +6,7 @@ var config = {
         "Hello Khánh Huyền",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "Happy birthday to you",  // 同上...
         "Chúc KH một tuổi mới thật nhiều niềm vui",
-        "Mọi việc đều thuận lợi, suôn sẻ的",
+        "Mọi việc đều thuận lợi, suôn sẻ",
         "Và tất nhiên là mau giàu có",
         "Để mình còn nhờ vả",
         "Mong là sẽ sớm gặp lại nhau",
@@ -21,7 +21,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "心爱的小可爱": "./imgs/xiaoke.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
